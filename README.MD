@@ -1,32 +1,21 @@
-\# 🚩 CTF Conference Tracker
+# 🚩 CTF Yarışma Takip Projesi
 
+Bu proje, **Açık Kaynak İşletim Sistemleri** dersi final ödevi olarak hazırlanmıştır. 
+CTFTime sitesinden yaklaşan siber güvenlik yarışmalarını çeker ve listeler.
 
+## ℹ️ Proje Hakkında
+Python kullanarak geliştirdiğim bu araç, siber güvenlikçilerin yarışmaları takip etmesini kolaylaştırır. Verileri anlık olarak çeker ve sonuçları kaydeder.
 
-Bu proje, siber güvenlik öğrencileri ve meraklıları için geliştirilmiş açık kaynaklı bir \*\*Capture The Flag (CTF) Yarışma Takip\*\* aracıdır. \*\*CTFTime\*\* üzerindeki verileri analiz eder ve yaklaşan etkinlikleri terminal üzerinden raporlar.
+## ✨ Özellikler
+* 🐍 **Python ile Veri Çekme:** `BeautifulSoup` kütüphanesi ile web scraping yapar.
+* 📄 **Loglama:** Sonuçları `ctf_sonuclar.txt` dosyasına otomatik kaydeder.
+* 🐚 **Otomasyon:** Bash script ile tek komutla başlatılabilir.
+* 🐧 **Cross-Platform:** Hem Windows hem Linux'ta çalışır.
 
+## 🚀 Nasıl Çalıştırılır?
 
-
-\## 🚀 Özellikler
-
-\- \*\*Web Scraping:\*\* Güncel yarışma verilerini canlı çeker.
-
-\- \*\*CLI Arayüzü:\*\* Hızlı ve kaynak dostu terminal kullanımı.
-
-\- \*\*Auto-Logging:\*\* Sonuçları otomatik olarak `ctf\_sonuclar.txt` dosyasına kaydeder.
-
-\- \*\*Cross-Platform:\*\* Windows ve Linux üzerinde sorunsuz çalışır.
-
-
-
-\## 🛠️ Kurulum
-
-
-
-Projeyi yerel bilgisayarınıza klonlayın:
+Projeyi indirdikten sonra terminalde şu komutu yazarak çalıştırabilirsiniz:
 
 ```bash
-
-git clone \[https://github.com/Sametcannugr/CTF-Conference-Tracker.git](https://github.com/Sametcannugr/CTF-Conference-Tracker.git)
-
-cd CTF-Conference-Tracker
-
+# Otomatik başlatma ve kontrol
+./src/baslat.sh
