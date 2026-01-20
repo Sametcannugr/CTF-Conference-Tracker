@@ -1,0 +1,16 @@
+{
+  "projectName": "CTF Conference Tracker",
+  "category": "Cyber Security Tool",
+  "author": "Samet Can Ugur",
+  "version": "1.0.0",
+  "description": "CTFTime uzerinden yarisma verilerini ceken terminal uygulamasi.",
+  "features": [
+    "Web Scraping (Veri Kazıma)",
+    "CLI Output (Terminal Ciktisi)",
+    "File Logging (Dosyaya Kayit)"
+  ],
+  "requirements": {
+    "os": "Windows / Linux",
+    "language": "Python 3+"
+  }
+}

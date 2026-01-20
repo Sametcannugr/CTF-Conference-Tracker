@@ -1,7 +1,12 @@
 echo "CTF Taramasi Baslatiliyor..."
 
-# python main.py > ctf_sonuclar.txt komutu, 
-# ekrana basilan yazilari yakalayip dosyaya kaydeder (Unix I/O Stream).
+# 1. Programi calistir ve ciktilari kaydet
 python main.py > ctf_sonuclar.txt
 
-echo "Islem bitti! Sonuclar 'ctf_sonuclar.txt' dosyasina kaydedildi."
+# 2. Auto Control (Otomatik Kontrol): Dosya olustu mu diye bakiyoruz
+if [ -s ctf_sonuclar.txt ]; then
+    echo "[BASARILI] Veriler ctf_sonuclar.txt dosyasina kaydedildi."
+    echo "[SELF-CHECK] Sistem sorunsuz calisiyor."
+else
+    echo "[HATA] Veri cekilemedi veya dosya bos!"
+fi
