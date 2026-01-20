@@ -1,0 +1,14 @@
+Veriler cekiliyor...
+ISIM | TARIH | FORMAT
+--------------------------------------------------
+MetaCTF January 2026 Flash CTF - 22 Jan., 22:00 UTC — 23 Jan. 2026, 01:00 UTC (Jeopardy)
+0xL4ugh CTF v5 - 23 Jan., 13:00 UTC — 25 Jan. 2026, 01:00 UTC (Jeopardy)
+Säkerhets-SM Quals 2026 - 23 Jan., 19:00 UTC — 25 Jan. 2026, 19:00 UTC (Jeopardy)
+HackDay 2026 - Qualifications - 23 Jan., 19:00 UTC — 25 Jan. 2026, 19:00 UTC (Jeopardy)
+Dreamhack Invitational Quals 2026 - 24 Jan., 00:00 UTC — 25 Jan. 2026, 00:00 UTC (Jeopardy)
+LilacCTF 2026 - 24 Jan., 01:00 UTC — 26 Jan. 2026, 01:00 UTC (Jeopardy)
+VSL CTF 2026 - 24 Jan., 08:00 UTC — 25 Jan. 2026, 08:00 UTC (Jeopardy)
+Fluid Attacks' CTF 2026-1 - 24 Jan., 13:00 UTC — 25 Jan. 2026, 13:00 UTC (Jeopardy)
+CyberQuest 26 - 28 Jan., 03:30 UTC — 28 Jan. 2026, 11:00 UTC (Jeopardy)
+Hack for a Change 2026 January: UN SDG 15 - 30 Jan., 00:00 UTC — 02 Feb. 2026, 23:59 UTC (Jeopardy)
+Cikmak icin enter'a bas
